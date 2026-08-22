@@ -16,7 +16,7 @@ ADS_LFPvsMRI/
 │   ├── 3.section_2_3_ppn_primary.R
 │   ├── 4.section_2_4_ppn_snc_moderation.R
 │   └── 5.section_2_5_bradykinesia.R
-├── Data/
+├── data/
 │   ├── combined_metrics.csv
 │   └── qc_metrics.csv
 ├── Figures/
