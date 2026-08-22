@@ -31,8 +31,6 @@ data_file <- file.path("data","combined_metrics.csv")
 out_dir <- file.path("results","section_2_5_bradykinesia")
 
 
-data_file <- "O:/Research/projects/MRC/Papers/shareableScripts/combined_metrics.csv"
-
 
 dir.create(out_dir,showWarnings=FALSE,recursive=TRUE)
 led_covariate <- "rs-led_medoff"
